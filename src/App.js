@@ -1,5 +1,5 @@
 import './App.css';
-import Onramp from "/Users/gustavoisturiz/Documents/onramp-test/src/Onramp.tsx";
+import Onramp from "./Onramp.tsx";
 
 function App() {
   return (
